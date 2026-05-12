@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.kemmer.df-usa-marketplace-aggregator</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/make/Projects/dark-factories/df-usa-marketplace-aggregator/scripts/run-df-usa-marketplace-mac.sh</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>7200</integer>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/tmp/df-usa-marketplace-aggregator.stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/df-usa-marketplace-aggregator.stderr.log</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>DF_USA_MARKETPLACE_REAL_ENABLED</key>
+        <string>false</string>
+    </dict>
+</dict>
+</plist>
