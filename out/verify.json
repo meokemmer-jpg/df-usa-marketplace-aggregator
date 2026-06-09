@@ -1,0 +1,12 @@
+{
+  "df": "df-usa-marketplace-aggregator",
+  "ts": "2026-06-08T19:54:53.739584+00:00",
+  "has_src": true,
+  "parse_ok": true,
+  "has_tests": true,
+  "test_ran": true,
+  "tests_passed": true,
+  "code_hash": "131e0a02b8247df3",
+  "python": "3.14.4",
+  "crux": "[CRUX-MK]"
+}
