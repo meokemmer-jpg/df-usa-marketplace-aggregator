@@ -1,9 +1,9 @@
 {
   "df": "df-usa-marketplace-aggregator",
-  "ts": "2026-07-03T02:53:04.133455+00:00",
+  "ts": "2026-07-04T01:49:42.867748+00:00",
   "maturity": "TESTED",
   "maturity_level": 4,
   "evidence_grade": 4,
-  "wargame_verdict": "CONDITIONAL",
+  "wargame_verdict": null,
   "crux": "[CRUX-MK]"
 }
